@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWbot", "SWbot\SWbot.csproj", "{A1628DA7-6272-44B4-A9F2-58F6A9E79F79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{DB9F1020-1104-4A56-A0E8-5D7DBEA34622}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{DB9F1020-1104-4A56-A0E8-5D7DBEA34622}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
